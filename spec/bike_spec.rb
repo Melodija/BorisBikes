@@ -22,5 +22,3 @@ describe Bike do
 
 
 end
-
-p double(:bike).class
