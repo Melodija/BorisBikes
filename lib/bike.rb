@@ -13,5 +13,9 @@ class Bike
    @working = false
  end
 
+ def fix_bike
+   @working = true
+ end
+
 
 end
