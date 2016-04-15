@@ -42,15 +42,4 @@ describe Garage do
   it 'expects garage to accept an array of bikes' do
     expect(subject.accept_bikes([bike,bike])).to eq [bike,bike]
   end
-
-
-
-
-
-
-
-
-
-
-
 end
